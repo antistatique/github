@@ -14,3 +14,10 @@ To import all the model's labels to your repository :
 ## Import issues/PR templates
 
 Simply add the full `.github` directory to your project.
+
+## Update labels script
+
+To update the labels based on this repo labels :
+
+1. Go to https://api.github.com/repos/antistatique/github/labels
+2. Copy and update `scripts/labels.js`
