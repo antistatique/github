@@ -6,12 +6,12 @@
   },
   {
     color: 'ef5a5a',
-    description : 'priority: Urgent',
+    description : '',
     name: 'priority: Urgent',
   },
   {
     color: 'F7F052',
-    description : 'project: Change request',
+    description : '',
     name: 'project: Change request',
   },
   {
@@ -21,32 +21,32 @@
   },
   {
     color: 'F28123',
-    description : 'project: Estimate needed',
+    description : '',
     name: 'project: Estimate needed',
   },
   {
     color: '93646A',
-    description : 'skill: Backend',
+    description : '',
     name: 'skill: Backend',
   },
   {
     color: 'FFAC7F',
-    description : 'skill: Conception',
+    description : '',
     name: 'skill: Conception',
   },
   {
     color: 'FFCFA0',
-    description : 'skill: Design',
+    description : '',
     name: 'skill: Design',
   },
   {
     color: 'F46E6E',
-    description : 'skill: Frontend',
+    description : '',
     name: 'skill: Frontend',
   },
   {
     color: 'FFA8A8',
-    description : 'skill: Marketing',
+    description : '',
     name: 'skill: Marketing',
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     color: 'dbb004',
-    description : 'status: Help Wanted',
+    description : '',
     name: 'status: Help Wanted',
   },
   {
@@ -81,27 +81,27 @@
   },
   {
     color: '5893d4',
-    description : 'time: 3',
+    description : '',
     name: 'time: 3',
   },
   {
     color: '4576bb',
-    description : 'time: 5',
+    description : '',
     name: 'time: 5',
   },
   {
     color: '3259a1',
-    description : 'time: 8',
+    description : '',
     name: 'time: 8',
   },
   {
     color: '1f3c88',
-    description : 'time: 13',
+    description : '',
     name: 'time: 13',
   },
   {
     color: '172c78',
-    description : 'time: 21',
+    description : '',
     name: 'time: 21',
   },
   {
