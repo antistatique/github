@@ -1,139 +1,115 @@
-[
-  {
-    color: 'ffa952',
-    description : 'Business Value',
+[{
     name: 'priority: Important',
+    color: 'ffa952',
   },
   {
-    color: 'ef5a5a',
-    description : '',
     name: 'priority: Urgent',
+    color: 'ef5a5a',
   },
   {
-    color: 'F7F052',
-    description : '',
     name: 'project: Change request',
+    color: 'ffa726',
   },
   {
-    color: '38726C',
-    description : 'Client feedback needed',
     name: 'project: Client needed',
+    color: 'ffca28',
   },
   {
-    color: 'F28123',
-    description : '',
     name: 'project: Estimate needed',
+    color: 'ffee58',
   },
   {
-    color: '93646A',
-    description : '',
     name: 'skill: Backend',
+    color: '90caf9',
   },
   {
-    color: 'FFAC7F',
-    description : '',
     name: 'skill: Conception',
+    color: '9fa8da',
   },
   {
-    color: 'FFCFA0',
-    description : '',
     name: 'skill: Design',
+    color: 'b39ddb',
   },
   {
-    color: 'F46E6E',
-    description : '',
     name: 'skill: Frontend',
+    color: 'ce93d8',
   },
   {
-    color: 'FFA8A8',
-    description : '',
     name: 'skill: Marketing',
+    color: 'f48fb1',
   },
   {
-    color: 'CCC5B9',
-    description : 'See another issue',
     name: 'status: Duplicate',
+    color: '4e342e',
   },
   {
-    color: 'dbb004',
-    description : '',
     name: 'status: Help Wanted',
+    color: '424242',
   },
   {
-    color: 'FFFCF2',
-    description : 'Lost in the abyss',
-    name: 'status: Won\'t fix',
+    name: 'status: Won't fix',
+    color: '37474f',
   },
   {
-    color: 'ceddef',
-    description : '30min',
-    name: 'time: ½',
-  },
-  {
-    color: 'a7c4e6',
-    description : '1 hour',
     name: 'time: 1',
+    color: 'a7c4e6',
   },
   {
-    color: '7facdd',
-    description : '2 hours',
-    name: 'time: 2',
-  },
-  {
-    color: '5893d4',
-    description : '',
-    name: 'time: 3',
-  },
-  {
-    color: '4576bb',
-    description : '',
-    name: 'time: 5',
-  },
-  {
-    color: '3259a1',
-    description : '',
-    name: 'time: 8',
-  },
-  {
-    color: '1f3c88',
-    description : '',
     name: 'time: 13',
+    color: '1f3c88',
   },
   {
-    color: '172c78',
-    description : '',
+    name: 'time: 2',
+    color: '7facdd',
+  },
+  {
     name: 'time: 21',
+    color: '172c78',
   },
   {
-    color: 'fd0054',
-    description : 'Something is broken',
+    name: 'time: 3',
+    color: '5893d4',
+  },
+  {
+    name: 'time: 5',
+    color: '4576bb',
+  },
+  {
+    name: 'time: 8',
+    color: '3259a1',
+  },
+  {
+    name: 'time: ½',
+    color: 'ceddef',
+  },
+  {
     name: 'type: Bug',
+    color: 'fd0054',
   },
   {
-    color: 'a6cb12',
-    description : 'Something can be better',
     name: 'type: Enhancement',
+    color: 'a6cb12',
   },
   {
-    color: '75cac3',
-    description : 'Something to update',
     name: 'type: Maintenance',
+    color: '75cac3',
   },
   {
-    color: '8293ff',
-    description : 'Something new',
     name: 'type: New feature',
+    color: '8293ff',
   },
   {
-    color: 'ffcd3c',
-    description : 'Something to ask',
     name: 'type: Question',
+    color: 'ffcd3c',
   },
   {
-    color: 'ffb480',
-    description : 'Feedbacks to give',
     name: 'type: Review',
+    color: 'ffb480',
   },
+  {
+    name: 'type: Styleguide',
+    color: '29b6f6',
+  }
 ].forEach(function(label) {
   addLabel(label);
 });
