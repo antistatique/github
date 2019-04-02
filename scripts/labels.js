@@ -51,20 +51,16 @@
     color: '37474f',
   },
   {
+    name: 'time: ½',
+    color: 'ceddef',
+  },
+  {
     name: 'time: 1',
     color: 'a7c4e6',
   },
   {
-    name: 'time: 13',
-    color: '1f3c88',
-  },
-  {
     name: 'time: 2',
     color: '7facdd',
-  },
-  {
-    name: 'time: 21',
-    color: '172c78',
   },
   {
     name: 'time: 3',
@@ -79,8 +75,12 @@
     color: '3259a1',
   },
   {
-    name: 'time: ½',
-    color: 'ceddef',
+    name: 'time: 13',
+    color: '1f3c88',
+  },
+  {
+    name: 'time: 21',
+    color: '172c78',
   },
   {
     name: 'type: Bug',
