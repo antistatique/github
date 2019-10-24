@@ -23,6 +23,10 @@
     color: '90caf9',
   },
   {
+    name: 'skill: Devops',
+    color: '90caf9',
+  },
+  {
     name: 'skill: Conception',
     color: '9fa8da',
   },
@@ -100,6 +104,14 @@
   },
   {
     name: 'type: Question',
+    color: 'ffcd3c',
+  },
+  {
+    name: 'type: Question Design',
+    color: 'ffcd3c',
+  },
+  {
+    name: 'type: Question UX',
     color: 'ffcd3c',
   },
   {
