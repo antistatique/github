@@ -3,7 +3,10 @@ This repository is a model for any new Antistatique repository.
 
 ## Import issue labels
 
-To import all the model's labels to your repository :
+⚠️ Since October 2019, Github introduced a [new settings](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-default-labels-for-repositories-in-your-organization) for organisations label management. Every new Antistatique repository will benefit from our [default labels](https://github.com/organizations/antistatique/settings/labels).
+
+
+To import manually all the model's labels to your repository :
 
 1. Go to the **labels page** (`https://github.com/antistatique/REPO_NAME/labels`)
 2. Remove the default labels
@@ -11,13 +14,10 @@ To import all the model's labels to your repository :
 4. **Paste** the content of [`scripts/labels.js`](https://raw.githubusercontent.com/antistatique/github/master/scripts/labels.js) 
 5. Tada !
 
-## Import issues/PR templates
+## Update the labels
+1. Go to Antistatique [labels settings](https://github.com/organizations/antistatique/settings/labels) and update the list.
+2. Go to the [labels management](https://github.com/antistatique/.github/labels) of this repo and do the same updates.
+3. Go to https://api.github.com/repos/antistatique/github/labels
+4. Copy and update `scripts/labels.js`
 
-Simply add the full `.github` directory to your project.
-
-## Update labels script
-
-To update the labels based on this repo labels :
-
-1. Go to https://api.github.com/repos/antistatique/github/labels
-2. Copy and update `scripts/labels.js`
+**⚠️ Antistatique settings and antistatique/.github labels must always stay the same.**
