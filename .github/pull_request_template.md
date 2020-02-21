@@ -1,11 +1,3 @@
----
-name: "Pull request"
-about: Pull request
-title: ''
-labels: ''
-assignees: ''
----
-
 ### Describe the PR
 A clear and concise description of what the PR is about.
 
