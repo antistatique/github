@@ -1,5 +1,5 @@
 # :octocat: Github
-This repository is a model for any new Antistatique repository.
+This repository is the centralized Antistatique's Github configuration.
 
 ## Import issue labels
 
