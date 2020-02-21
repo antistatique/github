@@ -1,4 +1,8 @@
 [{
+    name: 'EPIC',
+    color: '0052cc',
+  },
+  {
     name: 'priority: Important',
     color: 'ffa952',
   },
@@ -47,20 +51,24 @@
     color: '424242',
   },
   {
-    name: "status: Won't fix",
+    name: 'status: Won't fix',
     color: '37474f',
-  },
-  {
-    name: 'time: ½',
-    color: 'ceddef',
   },
   {
     name: 'time: 1',
     color: 'a7c4e6',
   },
   {
+    name: 'time: 13',
+    color: '1f3c88',
+  },
+  {
     name: 'time: 2',
     color: '7facdd',
+  },
+  {
+    name: 'time: 21',
+    color: '172c78',
   },
   {
     name: 'time: 3',
@@ -75,12 +83,12 @@
     color: '3259a1',
   },
   {
-    name: 'time: 13',
-    color: '1f3c88',
+    name: 'time: to be estimated',
+    color: 'd3eeff',
   },
   {
-    name: 'time: 21',
-    color: '172c78',
+    name: 'time: ½',
+    color: 'ceddef',
   },
   {
     name: 'type: Bug',
@@ -110,7 +118,7 @@
     name: 'type: Styleguide',
     color: '29b6f6',
   }
-].forEach(function(label) {
+].forEach(function (label) {
   addLabel(label);
 });
 
@@ -118,7 +126,7 @@ function updateLabel(label) {
   var flag = false;
   [].slice
     .call(document.querySelectorAll('.labels-list-item'))
-    .forEach(function(element) {
+    .forEach(function (element) {
       if (
         element.querySelector('.label-link').textContent.trim() === label.name
       ) {
