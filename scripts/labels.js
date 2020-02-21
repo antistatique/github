@@ -51,7 +51,7 @@
     color: '424242',
   },
   {
-    name: 'status: Won't fix',
+    name: "status: Won't fix",
     color: '37474f',
   },
   {
