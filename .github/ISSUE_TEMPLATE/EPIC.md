@@ -6,10 +6,10 @@ labels: 'EPIC'
 assignees: ''
 ---
 
-### Issues
+### 🗃️ Issues
 - [ ] #1 - Skill - Title
 - [ ] #2 - Skill - Title
 
-### DOD
+### ✅ DOD
 - [ ] Do that
 - [ ] Can achieve this

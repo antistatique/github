@@ -1,17 +1,17 @@
-### Describe the PR
-A clear and concise description of what the PR is about.
+### Describe the pull request
+A clear and concise description of what the pull request is about.
 
-### Issues
-This PR is related to :
+### 🗃️ Issues
+This pull request is related to :
 - #1
 - #2
 
-### To Review
+### 🔢 To Review
 Steps to review the PR:
 1. Install '...'
 2. Go to '...'
 3. Click on '....'
 4. Scroll down to '....'
 
-### Screenshots
+### 📸 Screenshots
 If applicable, add screenshots to help explain the task.

@@ -6,13 +6,13 @@ labels: 'type: Review'
 assignees: ''
 ---
 
-### Describe the context
+### 💬 Describe the context
 A clear and concise description of what the review is about.
 
-### To modify
+### ✅ To modify
 List of required modifications:
 - [ ] Do that
 - [ ] Change this
 
-### Screenshots
+### 📸 Screenshots
 If needed, add screenshots to help explain your review.
