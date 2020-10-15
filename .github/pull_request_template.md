@@ -13,5 +13,8 @@ Steps to review the PR:
 3. Click on '....'
 4. Scroll down to '....'
 
+### 🔖 Does it need an entry in the CHANGELOG ?
+ - [ ] Update the "NEXT RELEASE" section of the `CHANGELOG.md`
+
 ### 📸 Screenshots
 If applicable, add screenshots to help explain the task.
