@@ -2,6 +2,7 @@
 name: "💼 Portfolio"
 about: Project Portfolio to be publish on antistatique.net.
 title: 'Portfolio'
+labels: 'type: Portfolio'
 ---
 
 ## ✅ Todo
