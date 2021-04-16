@@ -115,8 +115,8 @@
     "color": "FB7D1D"
   },
   {
-    "name": "type: Question",
-    "color": "ffcd3c"
+    "name": "type: Portfolio",
+    "color": "2BE2D9"
   }
 ].forEach(function (label) {
   addLabel(label);
