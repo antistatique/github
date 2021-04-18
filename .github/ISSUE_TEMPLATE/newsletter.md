@@ -2,6 +2,7 @@
 name: "💌 Newsletter"
 about: Newsletter to be prepared and sent by Antistatique.
 title: 'Newsletter'
+labels: 'type: Newsletter'
 ---
 
 ## ✅ Todo
@@ -15,4 +16,3 @@ title: 'Newsletter'
 - [ ] Coder ou construire la Newsletter
 - [ ] Validation par Alberto
 - [ ] Planifier l'envoi sur Campaign Monitor
-
